@@ -1,0 +1,308 @@
+Date,F1,F2,F3,F4,F5,F6,Like
+11/4,Cookies & Cream,Hazelnut Amaretto (SF),Dulce de Leche (Low Fat),Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,6
+11/3,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,10
+11/2,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,13
+11/1,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,12
+10/31,Caramel Macadamia Cappuccino,Pistachio Cream (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,32
+10/30,Caramel Macadamia Cappuccino,Yellow Cake Batter (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,9
+10/29,Caramel Macadamia Cappuccino,Yellow Cake Batter (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,12
+10/28,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,9
+10/27,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+10/26,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+10/25,Maine Blueberry,Yellow Cake Batter (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,12
+10/24,Maine Blueberry,NY Cheesecake (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,9
+10/23,Maine Blueberry,NY Cheesecake (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,11
+10/22,White Cake Batter,Butterscotch Parfait (SF),Raspberry Chocolate Truffle,Mango,Ghirardelli Chocolate,Vanilla Classic,10
+10/21,White Cake Batter,Butterscotch Parfait (SF),Creme Brulee,Mango,Ghirardelli Chocolate,Vanilla Classic,14
+10/20,None,None,None,None,None,None,None
+10/19,White Cake Batter,Vanilla Cappuccino (SF),Creme Brulee,Mango,Ghirardelli Chocolate,Vanilla Classic,5
+10/18,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,7
+10/17,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,6
+10/16,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,10
+10/15,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Pumpkin Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,11
+10/14,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,12
+10/13,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,6
+10/12,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,12
+10/11,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,10
+10/10,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,13
+10/9,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,16
+10/8,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,11
+10/7,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,12
+10/6,Cookies & Cream,Caramel Custard (SF),Chocolate Covered Banana,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,14
+10/5,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,14
+10/4,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,18
+10/3,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,23
+10/2,Cookies & Cream,Yellow Cake Batter (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,16
+10/1,Black Forest Chocolate,English Toffee (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,11
+9/30,Black Forest Chocolate,English Toffee (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,18
+9/29,NY Cheesecake,English Toffee (SF),Black Forest Chocolate,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,6
+9/28,NY Cheesecake,English Toffee (SF),Black Forest Chocolate,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,14
+9/27,NY Cheesecake,Maple Walnut (SF),Peanut Butter Chocolate,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,13
+9/26,NY Cheesecake,Maple Walnut (SF),Peanut Butter Chocolate,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,14
+9/25,Strawberry Shortcake,Maple Walnut (SF),Peanut Butter Chocolate,Caramel Macadamia Cappuccino,Ghirardelli Chocolate,Vanilla Classic,13
+9/24,Strawberry Shortcake,Maple Walnut (SF),Peanut Butter Chocolate,Caramel Macadamia Cappuccino,Ghirardelli Chocolate,Vanilla Classic,15
+9/23,Strawberry Shortcake,Pecan and Pralines (SF),Thin Mint Cookie,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,21
+9/22,None,None,None,None,None,None,None
+9/21,Georgia Peach,Pecan and Pralines (SF),Thin Mint Cookie,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,19
+9/20,Georgia Peach,Pecan and Pralines (SF),Rocky Road,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,14
+9/19,Georgia Peach,Vanilla Cappuccino (SF),Rocky Road,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,19
+9/18,Georgia Peach,Vanilla Cappuccino (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,25
+9/17,Fresh Blackberry,Vanilla Cappuccino (SF),Creme Brulee,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,14
+9/16,Fresh Blackberry,Vanilla Cappuccino (SF),Creme Brulee,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,15
+9/15,Fresh Blackberry,White Chocolate Macadamia (SF),Creme Brulee,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,11
+9/14,Fresh Blackberry,White Chocolate Macadamia (SF),Creme Brulee,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,17
+9/13,Fresh Blackberry,White Chocolate Macadamia (SF),Salted Caramel Pretzel (Low Fat),White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,17
+9/12,Mango,White Chocolate Macadamia (SF),Salted Caramel Pretzel (Low Fat),Mounds Bar,Ghirardelli Chocolate,Vanilla Classic,15
+9/11,Mango,Butter Pecan (SF),Salted Caramel Pretzel (Low Fat),Hawaiian Coconut,Creamy Milk Chocolate,Vanilla Classic,40
+9/10,Chocolate Covered Strawberries,Butter Pecan (SF),Mango,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,17
+9/9,Chocolate Covered Strawberries,Butter Pecan (SF),Mango,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,24
+9/8,Thin Mint Cookie,Butter Pecan (SF),Costa Rican Cappuccino,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,9
+9/7,None,None,None,None,None,None,None
+9/6,Thin Mint Cookie,Hazelnut (SF),Costa Rican Cappuccino,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,20
+9/5,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,5
+9/4,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,15
+9/3,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Wild Mountain Berries,Ghirardelli Chocolate,Vanilla Classic,10
+9/2,NY Cheesecake,Caramel Custard (SF),Pumpkin Pie,Wild Mountain Berries,Ghirardelli Chocolate,Vanilla Classic,18
+9/1,NY Cheesecake,Caramel Custard (SF),Peanut Butter Chocolate,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,12
+8/31,NY Cheesecake,Caramel Custard (SF),Peanut Butter Chocolate,Fresh Strawberry,Ghirardelli Chocolate,Vanilla Classic,13
+8/30,Cookies & Cream,Caramel Custard (SF),Peanut Butter Chocolate,Blueberry (Tart),Ghirardelli Chocolate,Vanilla Classic,8
+8/29,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Blueberry (Tart),Ghirardelli Chocolate,Vanilla Classic,6
+8/28,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Blueberry (Tart),Ghirardelli Chocolate,Vanilla Classic,11
+8/27,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,10
+8/26,Thin Mint Cookie,Yellow Cake Batter (SF),Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,18
+8/25,Chocolate Covered Banana,Yellow Cake Batter (SF),Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,16
+8/24,Chocolate Covered Banana,NY Cheesecake (SF),Fresh Strawberry,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,15
+8/23,Chocolate Covered Banana,NY Cheesecake (SF),Fresh Strawberry,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,10
+8/22,Creme Brulee,NY Cheesecake (SF),Fresh Strawberry,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,13
+8/21,Creme Brulee,NY Cheesecake (SF),Fresh Strawberry,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,13
+8/20,Thin Mint Cookie,Caramel Macadamia Cappuccino (SF),Fresh Blackberry,None,Ghirardelli Chocolate,Vanilla Classic,10
+8/19,Thin Mint Cookie,Caramel Macadamia Cappuccino (SF),Creme Brulee,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,12
+8/18,Thin Mint Cookie,Maple Walnut (SF),Creme Brulee,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,13
+8/17,None,None,None,None,None,None,None
+8/16,Irish Mint,Maple Walnut (SF),Mango,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,12
+8/15,Costa Rican Cappuccino,Maple Walnut (SF),Mango,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,9
+8/14,Costa Rican Cappuccino,Maple Walnut (SF),Mango,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,11
+8/13,Costa Rican Cappuccino,Yellow Cake Batter (SF),Mango,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,9
+8/12,Costa Rican Cappuccino,Yellow Cake Batter (SF),Mango,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,7
+8/11,Salted Caramel Macadamia,Yellow Cake Batter (SF),Pistachio Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,10
+8/10,Salted Caramel Macadamia,Yellow Cake Batter (SF),Pistachio Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,7
+8/9,Salted Caramel Macadamia,Butter Pecan (SF),Pistachio Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,8
+8/8,Salted Caramel Macadamia,Butter Pecan (SF),Pistachio Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,7
+8/7,Salted Caramel Macadamia,Butter Pecan (SF),NY Cheesecake,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,5
+8/6,Black Forest Chocolate,Butter Pecan (SF),NY Cheesecake,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,9
+8/5,Black Forest Chocolate,White Chocolate Macadamia (SF),NY Cheesecake,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,5
+8/4,Black Forest Chocolate,White Chocolate Macadamia (SF),Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,4
+8/3,Black Forest Chocolate,White Chocolate Macadamia,Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,6
+8/2,Vanilla Cappuccino,White Chocolate Macadamia,Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,5
+8/1,Vanilla Cappuccino,Caramel Custard (SF),Cookies & Cream,Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,7
+7/31,Fresh Strawberry,Caramel Custard (SF),Cookies & Cream,Vanilla Cappuccino,Ghirardelli Chocolate,Vanilla Classic,13
+7/30,Fresh Strawberry,Caramel Custard (SF),Peanut Butter Chocolate,Vanilla Cappuccino,Ghirardelli Chocolate,Vanilla Classic,7
+7/29,Fresh Strawberry,Caramel Custard (SF),Peanut Butter (Low Fat),Mounds Bar,Ghirardelli Chocolate,Vanilla Classic,6
+7/28,Fresh Strawberry,English Toffee (SF),Peanut Butter (Low Fat),Mounds Bar,Ghirardelli Chocolate,Vanilla Classic,8
+7/27,None,None,None,None,None,None,None
+7/26,Fresh Strawberry,English Toffee (SF),Peanut Butter (Low Fat),Mounds Bar,Ghirardelli Chocolate,Vanilla Classic,8
+7/25,Maine Blueberry,English Toffee (SF),White Cake Batter,Mounds Bar,Ghirardelli Chocolate,Vanilla Classic,5
+7/24,Maine Blueberry,Kahlua (SF),White Cake Batter,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,8
+7/23,Maine Blueberry,Kahlua (SF),White Cake Batter,Hawaiian Coconut,Ghirardelli Chocolate,Vanilla Classic,8
+7/22,Thin Mint Cookie,Kahlua (SF),White Cake Batter,Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,10
+7/21,Thin Mint Cookie,Kahlua (SF),Dulce de Leche (Low Fat),Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,9
+7/20,Thin Mint Cookie,Hazelnut (SF),Dulce de Leche (Low Fat),Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,10
+7/19,Thin Mint Cookie,Hazelnut (SF),Dulce de Leche (Low Fat),Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,7
+7/18,Wild Mountain Berries,Hazelnut (SF),Dulce de Leche (Low Fat),Irish Mint,Ghirardelli Chocolate,Vanilla Classic,8
+7/17,Wild Mountain Berries,Hazelnut (SF),Rocky Road,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,7
+7/16,Wild Mountain Berries,Hazelnut (SF),Rocky Road,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,8
+7/15,Creme Brulee,Hazelnut (SF),Rocky Road,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,8
+7/14,Creme Brulee,Butter Pecan (SF),Rocky Road,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,5
+7/13,Creme Brulee,Butter Pecan (SF),Chocolate Covered Strawberries,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,7
+7/12,Creme Brulee,Butter Pecan (SF),Chocolate Covered Strawberries,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,3
+7/11,NY Cheesecake,Butter Pecan (SF),Fresh Blackberry,Chocolate Covered Strawberries,Ghirardelli Chocolate,Vanilla Classic,4
+7/10,NY Cheesecake,Butter Pecan (SF),Fresh Blackberry,Chocolate Covered Strawberries,Ghirardelli Chocolate,Vanilla Classic,6
+7/9,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,5
+7/8,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,9
+7/7,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,6
+7/6,Cookies & Cream,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,5
+7/5,Cookies & Cream,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,8
+7/4,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,11
+7/3,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,7
+7/2,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Raspberry Chocolate Truffle,Ghirardelli Chocolate,Vanilla Classic,9
+7/1,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Raspberry Chocolate Truffle,Ghirardelli Chocolate,Vanilla Classic,12
+6/30,Raspberry Chocolate Truffle,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,Ghirardelli Chocolate,Vanilla Classic,5
+6/29,Raspberry Chocolate Truffle,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,Ghirardelli Chocolate,Vanilla Classic,9
+6/28,White Cake Batter,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,Ghirardelli Chocolate,Vanilla Classic,4
+6/27,White Cake Batter,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,Ghirardelli Chocolate,Vanilla Classic,10
+6/26,White Cake Batter,Maple Walnut (SF),Mango (Sorbet),Peanut Butter Chocolate,Ghirardelli Chocolate,Vanilla Classic,10
+6/25,White Cake Batter,Maple Walnut (SF),Mango (Sorbet),Peanut Butter Chocolate,Ghirardelli Chocolate,Vanilla Classic,15
+6/23,Red Raspberry,Maple Walnut (SF),Hawaiian Coconut,Peanut Butter Chocolate,Ghirardelli Chocolate,Vanilla Classic,10
+6/22,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,7
+6/21,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,8
+6/20,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,8
+6/19,Georgia Peach,Vanilla Cappuccino (SF),Hawaiian Coconut,Banana Chocolate,Ghirardelli Chocolate,Vanilla Classic,10
+6/18,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,Ghirardelli Chocolate,Vanilla Classic,5
+6/17,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,Ghirardelli Chocolate,Vanilla Classic,5
+6/16,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,Ghirardelli Chocolate,Vanilla Classic,7
+6/15,Fresh Blackberry,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Thin Mint Cookie,Ghirardelli Chocolate,Vanilla Classic,9
+6/14,Fresh Blackberry,Creme Brulee (SF),Dulce de Leche (Low Fat),Thin Mint Cookie,Ghirardelli Chocolate,Vanilla Classic,5
+6/13,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,11
+6/12,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,5
+6/11,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,6
+6/10,Fresh Blackberry,Pecan and Pralines (SF),NY Cheesecake,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,3
+6/9,Fresh Strawberry,Pecan and Pralines (SF),NY Cheesecake,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,11
+6/8,Fresh Strawberry,Pecan and Pralines (SF),NY Cheesecake,Caramel Custard,Ghirardelli Chocolate,Vanilla Classic,6
+6/7,Fresh Strawberry,Pecan and Pralines (SF),White Chocolate Macadamia,Caramel Custard,Ghirardelli Chocolate,Vanilla Classic,7
+6/6,Fresh Strawberry,Yellow Cake Batter (SF),White Chocolate Macadamia,Caramel Custard,Ghirardelli Chocolate,Vanilla Classic,11
+6/5,Fresh Strawberry,Yellow Cake Batter (SF),White Chocolate Macadamia,Caramel Custard,Ghirardelli Chocolate,Vanilla Classic,9
+6/4,Fresh Strawberry,Yellow Cake Batter (SF),Cookies & Cream,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,6
+6/3,Fresh Strawberry,Yellow Cake Batter (SF),Cookies & Cream,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,6
+6/2,Chocolate Covered Strawberries,Yellow Cake Batter (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,8
+6/1,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,10
+5/31,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,7
+5/30,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Wild Berry (Tart),Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,15
+5/29,Cookies & Cream,Butterscotch Parfait (SF),Wild Berry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,8
+5/28,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,7
+5/27,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,5
+5/26,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+5/25,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,9
+5/24,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,9
+5/23,Pistachio Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),Ghirardelli Chocolate,Vanilla Classic,7
+5/22,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,6
+5/21,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,10
+5/20,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,7
+5/19,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,11
+5/18,Mounds Bar,English Toffee (SF),NY Cheesecake,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,15
+5/17,Hawaiian Coconut,English Toffee (SF),Strawberry Shortcake,Peanut Butter Chocolate,Ghirardelli Chocolate,Vanilla Classic,15
+5/16,NY Cheesecake,English Toffee (SF),Peanut Butter Chocolate,Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,15
+5/15,NY Cheesecake,English Toffee (SF),Peanut Butter Chocolate,Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,19
+5/14,NY Cheesecake,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,8
+5/13,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,10
+5/12,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,15
+5/11,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),Ghirardelli Chocolate,Vanilla Classic,17
+5/10,Vanilla Cappuccino,Maple Walnut (SF),Peanut Butter (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,13
+5/9,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,11
+5/8,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,6
+5/7,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,12
+5/6,Thin Mint Cookie,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,5
+5/5,Thin Mint Cookie,Pecans & Pralines (SF),Creme Brulee,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,9
+5/4,Thin Mint Cookie,Pecans & Pralines (SF),Creme Brulee,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,10
+5/3,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,15
+5/2,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,14
+5/1,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,22
+4/30,Maine Blueberry,Caramel Custard (SF),Cookies & Cream,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,12
+4/29,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,7
+4/28,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,10
+4/27,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,8
+4/26,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,9
+4/25,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,14
+4/24,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,8
+4/23,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,13
+4/22,Fresh Strawberry,Butter Pecan (SF),Raspberry Chocolate Truffle,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,20
+4/21,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+4/20,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,14
+4/19,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,13
+4/18,Wild Mountain Berries,NY Cheesecake (SF),Salted Caramel Pretzel (Low Fat),Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+4/17,Chocolate Covered Banana,Yellow Cake Batter (SF),Salted Caramel Pretzel (Low Fat),Pomegranate Raspberry (Tart),Belgian Chocolate,Vanilla Classic,17
+4/16,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),Belgian Chocolate,Vanilla Classic,17
+4/15,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,12
+4/14,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,9
+4/13,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,9
+4/12,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,11
+4/11,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,13
+4/10,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Fresh Blackberry,Ghirardelli Chocolate,Vanilla Classic,9
+4/9,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,10
+4/8,Peanut Butter Chocolate,English Toffee (SF),Apple Pie,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,14
+4/7,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,8
+4/6,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,7
+4/5,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,12
+4/4,Thin Mint Cookie,English Toffee (SF),Cookies & Cream,Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,11
+4/3,Thin Mint Cookie,Vanilla Cappuccino (SF),Cookies & Cream,Orange Creamsicle,Ghirardelli Chocolate,Vanilla Classic,10
+4/2,Thin Mint Cookie,Vanilla Cappuccino (SF),Cookies & Cream,Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,10
+4/1,Irish Mint,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,10
+3/31,Irish Mint,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,13
+3/30,Irish Mint,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,6
+3/29,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,8
+3/28,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,Ghirardelli Chocolate,Vanilla Classic,7
+3/27,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,13
+3/26,NY Cheesecake,White Chocolate Macadamia (SF),Pistachio Cream,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,8
+3/25,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,10
+3/24,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,7
+3/23,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),Ghirardelli Chocolate,Vanilla Classic,12
+3/22,Maine Blueberry,Caramel Custard (SF),Costa Rican Cappuccino,NY Cheesecake,Ghirardelli Chocolate,Vanilla Classic,11
+3/21,Maine Blueberry,Butterscotch Parfait (SF),Costa Rican Cappuccino,Rocky Road,Ghirardelli Chocolate,Vanilla Classic,11
+3/20,Maine Blueberry,Butterscotch Parfait (SF),White Cake Batter,Rocky Road,Ghirardelli Chocolate,Vanilla Classic,5
+3/19,Maine Blueberry,Butterscotch Parfait (SF),White Cake Batter,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,13
+3/18,Georgia Peach,Butterscotch Parfait (SF),White Cake Batter,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,16
+3/17,Fresh Blackberry,Butter Pecan (SF),White Cake Batter,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,6
+3/16,Fresh Blackberry,Butter Pecan (SF),White Cake Batter,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,14
+3/15,Fresh Blackberry,Butter Pecan (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,20
+3/14,Red Raspberry,Butter Pecan (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,9
+3/13,Red Raspberry,Butter Pecan (SF),Hawaiian Coconut,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+3/12,Red Raspberry,Butter Pecan (SF),Chocolate Covered Strawberries,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,9
+3/11,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+3/10,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+3/9,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,15
+3/8,Georgia Peach,Caramel Macadamia Cappuccino (SF),Peanut Butter Chocolate,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,12
+3/7,Georgia Peach,Caramel Macadamia Cappuccino (SF),Peanut Butter Chocolate,Hazelnut,Ghirardelli Chocolate,Vanilla Classic,12
+3/6,Fresh Strawberry,Yellow Cake Batter (SF),Peanut Butter Chocolate,Hazelnut,Ghirardelli Chocolate,Vanilla Classic,18
+3/5,Fresh Strawberry,Yellow Cake Batter (SF),Peanut Butter Chocolate,Hazelnut,Ghirardelli Chocolate,Vanilla Classic,7
+3/4,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,13
+3/3,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,13
+3/2,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,12
+3/1,Fresh Strawberry,Caramel Pecan Toffee (SF),Thin Mint Cookie,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,18
+2/28,Fresh Strawberry,Caramel Pecan Toffee (SF),Irish Mint,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,17
+2/27,Fresh Strawberry,Pistachio Cream (SF),Irish Mint,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,18
+2/26,Fresh Strawberry,Pistachio Cream (SF),Irish Mint,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,19
+2/25,NY Cheesecake,Pistachio Cream (SF),Passion Orange Guava (Sorbet),Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,18
+2/24,Vanilla Cappuccino,Pistachio Cream (SF),Passion Orange Guava (Sorbet),NY Cheesecake,Ghirardelli Chocolate,Vanilla Classic,17
+2/23,Vanilla Cappuccino,Caramel Custard (SF),Passion Orange Guava (Sorbet),NY Cheesecake,Ghirardelli Chocolate,Vanilla Classic,11
+2/22,Vanilla Cappuccino,Caramel Custard (SF),Passion Orange Guava (Sorbet),NY Cheesecake,Ghirardelli Chocolate,Vanilla Classic,20
+2/21,Vanilla Cappuccino,Caramel Custard (SF),Fresh Blackberry,NY Cheesecake,Ghirardelli Chocolate,Vanilla Classic,20
+2/20,Chocolate Covered Banana,Caramel Custard (SF),Fresh Blackberry,,Ghirardelli Chocolate,Vanilla Classic,13
+2/19,Chocolate Covered Banana,Pecans & Pralines (SF),Fresh Blackberry,,Ghirardelli Chocolate,Vanilla Classic,9
+2/18,Chocolate Covered Banana,Pecans & Pralines (SF),Fresh Blackberry,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,8
+2/17,Chocolate Covered Banana,Pecans & Pralines (SF),Fresh Blackberry,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,15
+2/16,Chocolate Covered Banana,Pecans & Pralines (SF),Mango,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,14
+2/15,White Cake Batter,Kahlua (SF),Mango,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+2/14,White Cake Batter,Kahlua (SF),Mango,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,18
+2/13,White Cake Batter,Kahlua (SF),Red Raspberry,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+2/12,Chocolate Covered Strawberries,Kahlua (SF),Red Raspberry,Dulce de Leche (Low Fat),Ghirardelli Chocolate,Vanilla Classic,14
+2/11,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,14
+2/10,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,17
+2/9,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,16
+2/8,Thin Mint Cookie,English Toffee (SF),Costa Rican Cappuccino,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,16
+2/7,Thin Mint Cookie,English Toffee (SF),Costa Rican Cappuccino,Red Raspberry,Ghirardelli Chocolate,Vanilla Classic,21
+2/6,Thin Mint Cookie,Maple Walnut (SF),Costa Rican Cappuccino,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,16
+2/5,Irish Mint,Maple Walnut (SF),Costa Rican Cappuccino,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,12
+2/4,Strawberry Shortcake,Maple Walnut (SF),Irish Mint,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,9
+2/3,Strawberry Shortcake,Maple Walnut (SF),Irish Mint,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,11
+2/2,Strawberry Shortcake,Caramel Pecan Toffee (SF),Irish Mint,Costa Rican Cappuccino,Ghirardelli Chocolate,Vanilla Classic,13
+2/1,None,None,None,None,Ghirardelli Chocolate,Vanilla Classic,0
+1/31,Strawberry Shortcake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,17
+1/30,Strawberry Shortcake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Cookies & Cream,Ghirardelli Chocolate,Vanilla Classic,23
+1/29,NY Cheesecake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Maine Blueberry,Ghirardelli Chocolate,Vanilla Classic,18
+1/28,NY Cheesecake,White Chocolate Macadamia (SF),Peanut Butter Chocolate,Maine Blueberry,Ghirardelli Chocolate,Vanilla Classic,12
+1/27,NY Cheesecake,White Chocolate Macadamia (SF),Maine Blueberry,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,11
+1/26,NY Cheesecake,White Chocolate Macadamia (SF),Maine Blueberry,Peanut Butter (Low Fat),Ghirardelli Chocolate,Vanilla Classic,14
+1/25,Butter Pecan,White Chocolate Macadamia (SF),Mounds Bar,Maine Blueberry,Ghirardelli Chocolate,Vanilla Classic,7
+1/24,Butter Pecan,Caramel Custard (SF),Mounds Bar,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,18
+1/23,Butter Pecan,Caramel Custard (SF),Mounds Bar,Pomegranate Raspberry (Tart),Ghirardelli Chocolate,Vanilla Classic,13
+1/22,Fresh Blackberry,Caramel Custard (SF),Mounds Bar,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,8
+1/21,Fresh Blackberry,Caramel Custard (SF),Hawaiian Coconut,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,9
+1/20,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,13
+1/19,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Creme Brulee,Ghirardelli Chocolate,Vanilla Classic,19
+1/18,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,10
+1/17,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,7
+1/16,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,3
+1/15,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,7
+1/14,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),Ghirardelli Chocolate,Vanilla Classic,8
+1/13,Fresh Strawberry,Pistachio Cream (SF),Salted Caramel Pretzel (Low Fat),,Ghirardelli Chocolate,Vanilla Classic,13
+1/12,Fresh Strawberry,Pistachio Cream (SF),Thin Mint Cookie,,Ghirardelli Chocolate,Vanilla Classic,5
+1/11,None,None,None,None,Ghirardelli Chocolate,Vanilla Classic,None
+1/10,Red Raspberry,Pistachio Cream (SF),Irish Mint,,Ghirardelli Chocolate,Vanilla Classic,15
+1/9,Red Raspberry,Pistachio Cream (SF),Hazelnut Amaretto,Irish Mint,Ghirardelli Chocolate,Vanilla Classic,7
+1/8,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,12
+1/7,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,6
+1/6,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,8
+1/5,Mango,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,9
+1/4,Mango,Pecans & Pralines (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,8
+1/3,Mango,Pecans & Pralines (SF),Rocky Road,White Cake Batter,Ghirardelli Chocolate,Vanilla Classic,9
+1/2,Mango,Pecans & Pralines (SF),Raspberry Chocolate Truffle,Apple Pie,Ghirardelli Chocolate,Vanilla Classic,13
+1/1,None,None,None,None,Ghirardelli Chocolate,Vanilla Classic,None

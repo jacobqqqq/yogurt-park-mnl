@@ -1,0 +1,67 @@
+flavor,days_appeared,appearance_rate,times_per_week,base_flavor,descriptor,frequency_category,category
+Cookies & Cream,59,0.20136518771331058,1.409556313993174,Cookies & Cream,Regular,Low Frequency,Chocolate
+Red Raspberry,52,0.17747440273037543,1.242320819112628,Red Raspberry,Regular,Low Frequency,Fruit
+Fresh Blackberry,50,0.17064846416382254,1.1945392491467577,Fresh Blackberry,Regular,Low Frequency,Fruit
+Fresh Strawberry,41,0.13993174061433447,0.9795221843003413,Fresh Strawberry,Regular,Low Frequency,Fruit
+Costa Rican Cappuccino,39,0.13310580204778158,0.9317406143344711,Costa Rican Cappuccino,Regular,Low Frequency,Coffee/Matcha
+NY Cheesecake,39,0.13310580204778158,0.9317406143344711,NY Cheesecake,Regular,Low Frequency,Specialty
+Yellow Cake Batter (SF),38,0.1296928327645051,0.9078498293515358,Yellow Cake Batter,Sugar Free,Low Frequency,Vanilla
+White Cake Batter,34,0.11604095563139932,0.8122866894197953,White Cake Batter,Regular,Low Frequency,Vanilla
+Butter Pecan (SF),34,0.11604095563139932,0.8122866894197953,Butter Pecan,Sugar Free,Low Frequency,Nut
+Caramel Custard (SF),33,0.11262798634812286,0.78839590443686,Caramel Custard,Sugar Free,Low Frequency,Caramel/Dulce
+Peanut Butter Chocolate,32,0.10921501706484642,0.764505119453925,Peanut Butter Chocolate,Regular,Low Frequency,Chocolate
+Irish Mint,30,0.10238907849829351,0.7167235494880546,Irish Mint,Regular,Low Frequency,Specialty
+Thin Mint Cookie,30,0.10238907849829351,0.7167235494880546,Thin Mint Cookie,Regular,Low Frequency,Chocolate
+Creme Brulee,30,0.10238907849829351,0.7167235494880546,Creme Brulee,Regular,Low Frequency,Specialty
+Dulce de Leche (Low Fat),29,0.09897610921501707,0.6928327645051194,Dulce de Leche,Low Fat,Rare,Caramel/Dulce
+Peanut Butter (Low Fat),27,0.09215017064846416,0.6450511945392491,Peanut Butter,Low Fat,Rare,Nut
+English Toffee (SF),25,0.08532423208191127,0.5972696245733788,English Toffee,Sugar Free,Rare,Specialty
+Strawberry Shortcake,24,0.08191126279863481,0.5733788395904437,Strawberry Shortcake,Regular,Rare,Specialty
+Passion Orange Guava (Sorbet),22,0.07508532423208192,0.5255972696245734,Passion Orange Guava,Sorbet,Rare,Sorbet
+Mango,22,0.07508532423208192,0.5255972696245734,Mango,Regular,Rare,Fruit
+Hawaiian Coconut,21,0.07167235494880546,0.5017064846416383,Hawaiian Coconut,Regular,Rare,Fruit
+Chocolate Covered Strawberries,21,0.07167235494880546,0.5017064846416383,Chocolate Covered Strawberries,Regular,Rare,Specialty
+Maple Walnut (SF),20,0.06825938566552901,0.4778156996587031,Maple Walnut,Sugar Free,Rare,Nut
+Pistachio Cream,20,0.06825938566552901,0.4778156996587031,Pistachio Cream,Regular,Rare,Nut
+Maine Blueberry,19,0.06484641638225255,0.4539249146757679,Maine Blueberry,Regular,Rare,Fruit
+Rocky Road,18,0.06143344709897611,0.4300341296928327,Rocky Road,Regular,Rare,Specialty
+Vanilla Cappuccino (SF),18,0.06143344709897611,0.4300341296928327,Vanilla Cappuccino,Sugar Free,Rare,Coffee/Matcha
+Hazelnut (SF),17,0.05802047781569966,0.40614334470989766,Hazelnut,Sugar Free,Rare,Nut
+Chocolate Covered Banana,17,0.05802047781569966,0.40614334470989766,Chocolate Covered Banana,Regular,Rare,Specialty
+Mounds Bar,17,0.05802047781569966,0.40614334470989766,Mounds Bar,Regular,Rare,Chocolate
+Vanilla Cappuccino,16,0.05460750853242321,0.3822525597269625,Vanilla Cappuccino,Regular,Rare,Coffee/Matcha
+White Chocolate Macadamia (SF),15,0.051194539249146756,0.3583617747440273,White Chocolate Macadamia,Sugar Free,Rare,Specialty
+Pomegranate Raspberry (Tart),15,0.051194539249146756,0.3583617747440273,Pomegranate Raspberry,Regular,Rare,Tart
+Salted Caramel Pretzel (Low Fat),14,0.04778156996587031,0.3344709897610922,Salted Caramel Pretzel,Low Fat,Rare,Caramel/Dulce
+Raspberry Chocolate Truffle,13,0.04436860068259386,0.310580204778157,Raspberry Chocolate Truffle,Regular,Rare,Specialty
+Salted Caramel Macadamia,13,0.04436860068259386,0.310580204778157,Salted Caramel Macadamia,Regular,Rare,Specialty
+Kahlua (SF),12,0.040955631399317405,0.28668941979522183,Kahlua,Sugar Free,Rare,Coffee/Matcha
+Pecans & Pralines (SF),11,0.03754266211604096,0.2627986348122867,Pecans & Pralines,Sugar Free,Rare,Nut
+Georgia Peach,11,0.03754266211604096,0.2627986348122867,Georgia Peach,Regular,Rare,Fruit
+Butterscotch Parfait (SF),10,0.034129692832764506,0.23890784982935154,Butterscotch Parfait,Sugar Free,Rare,Specialty
+NY Cheesecake (SF),10,0.034129692832764506,0.23890784982935154,NY Cheesecake,Sugar Free,Rare,Specialty
+Caramel Macadamia Cappuccino (SF),10,0.034129692832764506,0.23890784982935154,Caramel Macadamia Cappuccino,Sugar Free,Rare,Caramel/Dulce
+Apple Pie,10,0.034129692832764506,0.23890784982935154,Apple Pie,Regular,Rare,Specialty
+Pistachio Cream (SF),9,0.030716723549488054,0.21501706484641636,Pistachio Cream,Sugar Free,Rare,Nut
+Watermelon (Sorbet),9,0.030716723549488054,0.21501706484641636,Watermelon,Sorbet,Rare,Sorbet
+Pumpkin Pie,9,0.030716723549488054,0.21501706484641636,Pumpkin Pie,Regular,Rare,Specialty
+Wild Mountain Berries,9,0.030716723549488054,0.21501706484641636,Wild Mountain Berries,Regular,Rare,Fruit
+Blueberry (Tart),9,0.030716723549488054,0.21501706484641636,Blueberry,Regular,Rare,Tart
+Black Forest Chocolate,8,0.027303754266211604,0.19112627986348124,Black Forest Chocolate,Regular,Rare,Chocolate
+Creme Brulee (SF),7,0.023890784982935155,0.1672354948805461,Creme Brulee,Sugar Free,Rare,Specialty
+Pecan and Pralines (SF),7,0.023890784982935155,0.1672354948805461,Pecan and Pralines,Sugar Free,Rare,Nut
+Orange Creamsicle,7,0.023890784982935155,0.1672354948805461,Orange Creamsicle,Regular,Rare,Specialty
+Salted Caramel Macadamia (Low Fat),7,0.023890784982935155,0.1672354948805461,Salted Caramel Macadamia,Low Fat,Rare,Nut
+Mango (Sorbet),6,0.020477815699658702,0.14334470989761092,Mango,Sorbet,Rare,Sorbet
+Caramel Pecan Toffee (SF),6,0.020477815699658702,0.14334470989761092,Caramel Pecan Toffee,Sugar Free,Rare,Specialty
+White Chocolate Macadamia,5,0.017064846416382253,0.11945392491467577,White Chocolate Macadamia,Regular,Rare,Specialty
+Caramel Pecan Toffee,5,0.017064846416382253,0.11945392491467577,Caramel Pecan Toffee,Regular,Rare,Specialty
+Caramel Macadamia Cappuccino,5,0.017064846416382253,0.11945392491467577,Caramel Macadamia Cappuccino,Regular,Rare,Caramel/Dulce
+Hazelnut Amaretto (SF),5,0.017064846416382253,0.11945392491467577,Hazelnut Amaretto,Sugar Free,Rare,Nut
+Caramel Custard,4,0.013651877133105802,0.09556313993174062,Caramel Custard,Regular,Rare,Caramel/Dulce
+Banana Chocolate,4,0.013651877133105802,0.09556313993174062,Banana Chocolate,Regular,Rare,Specialty
+Pistachio (SF),4,0.013651877133105802,0.09556313993174062,Pistachio,Sugar Free,Rare,Nut
+Butter Pecan,3,0.010238907849829351,0.07167235494880546,Butter Pecan,Regular,Rare,Nut
+Hazelnut,3,0.010238907849829351,0.07167235494880546,Hazelnut,Regular,Rare,Nut
+Wild Berry (Tart),2,0.006825938566552901,0.04778156996587031,Wild Berry,Regular,Rare,Fruit
+Hazelnut Amaretto,1,0.0034129692832764505,0.023890784982935155,Hazelnut Amaretto,Regular,Rare,Nut

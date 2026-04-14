@@ -1,0 +1,294 @@
+date,flavor_1,flavor_2,flavor_3,flavor_4,instagram_likes,day_of_week,is_weekend,month,month_name,week_of_year,year,day_number,n_chocolate,n_fruit,n_coffee_matcha,n_specialty,n_vanilla,n_nut,n_caramel_dulce,n_sorbet,n_tart,n_categories,n_sugar_free,n_low_fat
+2025-01-02,Mango,Pecans & Pralines (SF),Raspberry Chocolate Truffle,Apple Pie,13.0,Thursday,False,1,January,1,2025,1,0,1,0,2,0,1,0,0,0,3,1,0
+2025-01-03,Mango,Pecans & Pralines (SF),Rocky Road,White Cake Batter,9.0,Friday,False,1,January,1,2025,2,0,1,0,1,1,1,0,0,0,4,1,0
+2025-01-04,Mango,Pecans & Pralines (SF),Rocky Road,White Cake Batter,8.0,Saturday,True,1,January,1,2025,3,0,1,0,1,1,1,0,0,0,4,1,0
+2025-01-05,Mango,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,9.0,Sunday,True,1,January,1,2025,4,0,1,0,1,1,0,1,0,0,4,1,0
+2025-01-06,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,8.0,Monday,False,1,January,2,2025,5,0,1,0,1,1,0,1,0,0,4,1,0
+2025-01-07,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,6.0,Tuesday,False,1,January,2,2025,6,0,1,0,1,1,0,1,0,0,4,1,0
+2025-01-08,Red Raspberry,Caramel Macadamia Cappuccino (SF),Rocky Road,White Cake Batter,12.0,Wednesday,False,1,January,2,2025,7,0,1,0,1,1,0,1,0,0,4,1,0
+2025-01-09,Red Raspberry,Pistachio Cream (SF),Hazelnut Amaretto,Irish Mint,7.0,Thursday,False,1,January,2,2025,8,0,1,0,1,0,2,0,0,0,3,1,0
+2025-01-14,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),8.0,Tuesday,False,1,January,3,2025,9,0,1,1,0,0,1,1,0,0,4,1,1
+2025-01-15,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),7.0,Wednesday,False,1,January,3,2025,10,0,1,1,0,0,1,1,0,0,4,1,1
+2025-01-16,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),3.0,Thursday,False,1,January,3,2025,11,0,1,1,0,0,1,1,0,0,4,1,1
+2025-01-17,Fresh Strawberry,Hazelnut Amaretto (SF),Vanilla Cappuccino,Salted Caramel Pretzel (Low Fat),7.0,Friday,False,1,January,3,2025,12,0,1,1,0,0,1,1,0,0,4,1,1
+2025-01-18,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),10.0,Saturday,True,1,January,3,2025,13,0,2,0,0,1,0,1,0,0,3,1,1
+2025-01-19,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Creme Brulee,19.0,Sunday,True,1,January,3,2025,14,0,2,0,1,1,0,0,0,0,3,1,0
+2025-01-20,Fresh Blackberry,Yellow Cake Batter (SF),Hawaiian Coconut,Creme Brulee,13.0,Monday,False,1,January,4,2025,15,0,2,0,1,1,0,0,0,0,3,1,0
+2025-01-21,Fresh Blackberry,Caramel Custard (SF),Hawaiian Coconut,Creme Brulee,9.0,Tuesday,False,1,January,4,2025,16,0,2,0,1,0,0,1,0,0,3,1,0
+2025-01-22,Fresh Blackberry,Caramel Custard (SF),Mounds Bar,Creme Brulee,8.0,Wednesday,False,1,January,4,2025,17,1,1,0,1,0,0,1,0,0,4,1,0
+2025-01-23,Butter Pecan,Caramel Custard (SF),Mounds Bar,Pomegranate Raspberry (Tart),13.0,Thursday,False,1,January,4,2025,18,1,0,0,0,0,1,1,0,1,4,1,0
+2025-01-24,Butter Pecan,Caramel Custard (SF),Mounds Bar,Pomegranate Raspberry (Tart),18.0,Friday,False,1,January,4,2025,19,1,0,0,0,0,1,1,0,1,4,1,0
+2025-01-25,Butter Pecan,White Chocolate Macadamia (SF),Mounds Bar,Maine Blueberry,7.0,Saturday,True,1,January,4,2025,20,1,1,0,1,0,1,0,0,0,4,1,0
+2025-01-26,NY Cheesecake,White Chocolate Macadamia (SF),Maine Blueberry,Peanut Butter (Low Fat),14.0,Sunday,True,1,January,4,2025,21,0,1,0,2,0,1,0,0,0,3,1,1
+2025-01-27,NY Cheesecake,White Chocolate Macadamia (SF),Maine Blueberry,Peanut Butter (Low Fat),11.0,Monday,False,1,January,5,2025,22,0,1,0,2,0,1,0,0,0,3,1,1
+2025-01-28,NY Cheesecake,White Chocolate Macadamia (SF),Peanut Butter Chocolate,Maine Blueberry,12.0,Tuesday,False,1,January,5,2025,23,1,1,0,2,0,0,0,0,0,3,1,0
+2025-01-29,NY Cheesecake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Maine Blueberry,18.0,Wednesday,False,1,January,5,2025,24,1,1,0,2,0,0,0,0,0,3,1,0
+2025-01-30,Strawberry Shortcake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Cookies & Cream,23.0,Thursday,False,1,January,5,2025,25,2,0,0,2,0,0,0,0,0,2,1,0
+2025-01-31,Strawberry Shortcake,Caramel Pecan Toffee (SF),Peanut Butter Chocolate,Cookies & Cream,17.0,Friday,False,1,January,5,2025,26,2,0,0,2,0,0,0,0,0,2,1,0
+2025-02-02,Strawberry Shortcake,Caramel Pecan Toffee (SF),Irish Mint,Costa Rican Cappuccino,13.0,Sunday,True,2,February,5,2025,27,0,0,1,3,0,0,0,0,0,2,1,0
+2025-02-03,Strawberry Shortcake,Maple Walnut (SF),Irish Mint,Costa Rican Cappuccino,11.0,Monday,False,2,February,6,2025,28,0,0,1,2,0,1,0,0,0,3,1,0
+2025-02-04,Strawberry Shortcake,Maple Walnut (SF),Irish Mint,Costa Rican Cappuccino,9.0,Tuesday,False,2,February,6,2025,29,0,0,1,2,0,1,0,0,0,3,1,0
+2025-02-05,Irish Mint,Maple Walnut (SF),Costa Rican Cappuccino,Pomegranate Raspberry (Tart),12.0,Wednesday,False,2,February,6,2025,30,0,0,1,1,0,1,0,0,1,4,1,0
+2025-02-06,Thin Mint Cookie,Maple Walnut (SF),Costa Rican Cappuccino,Pomegranate Raspberry (Tart),16.0,Thursday,False,2,February,6,2025,31,1,0,1,0,0,1,0,0,1,4,1,0
+2025-02-07,Thin Mint Cookie,English Toffee (SF),Costa Rican Cappuccino,Red Raspberry,21.0,Friday,False,2,February,6,2025,32,1,1,1,1,0,0,0,0,0,4,1,0
+2025-02-08,Thin Mint Cookie,English Toffee (SF),Costa Rican Cappuccino,Red Raspberry,16.0,Saturday,True,2,February,6,2025,33,1,1,1,1,0,0,0,0,0,4,1,0
+2025-02-09,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,16.0,Sunday,True,2,February,6,2025,34,1,1,0,2,0,0,0,0,0,3,1,0
+2025-02-10,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,17.0,Monday,False,2,February,7,2025,35,1,1,0,2,0,0,0,0,0,3,1,0
+2025-02-11,Chocolate Covered Strawberries,English Toffee (SF),Cookies & Cream,Red Raspberry,14.0,Tuesday,False,2,February,7,2025,36,1,1,0,2,0,0,0,0,0,3,1,0
+2025-02-12,Chocolate Covered Strawberries,Kahlua (SF),Red Raspberry,Dulce de Leche (Low Fat),14.0,Wednesday,False,2,February,7,2025,37,0,1,1,1,0,0,1,0,0,4,1,1
+2025-02-13,White Cake Batter,Kahlua (SF),Red Raspberry,Dulce de Leche (Low Fat),11.0,Thursday,False,2,February,7,2025,38,0,1,1,0,1,0,1,0,0,4,1,1
+2025-02-14,White Cake Batter,Kahlua (SF),Mango,Dulce de Leche (Low Fat),18.0,Friday,False,2,February,7,2025,39,0,1,1,0,1,0,1,0,0,4,1,1
+2025-02-15,White Cake Batter,Kahlua (SF),Mango,Dulce de Leche (Low Fat),11.0,Saturday,True,2,February,7,2025,40,0,1,1,0,1,0,1,0,0,4,1,1
+2025-02-16,Chocolate Covered Banana,Pecans & Pralines (SF),Mango,Creme Brulee,14.0,Sunday,True,2,February,7,2025,41,0,1,0,2,0,1,0,0,0,3,1,0
+2025-02-17,Chocolate Covered Banana,Pecans & Pralines (SF),Fresh Blackberry,Creme Brulee,15.0,Monday,False,2,February,8,2025,42,0,1,0,2,0,1,0,0,0,3,1,0
+2025-02-18,Chocolate Covered Banana,Pecans & Pralines (SF),Fresh Blackberry,Creme Brulee,8.0,Tuesday,False,2,February,8,2025,43,0,1,0,2,0,1,0,0,0,3,1,0
+2025-02-21,Vanilla Cappuccino,Caramel Custard (SF),Fresh Blackberry,NY Cheesecake,20.0,Friday,False,2,February,8,2025,44,0,1,1,1,0,0,1,0,0,4,1,0
+2025-02-22,Vanilla Cappuccino,Caramel Custard (SF),Passion Orange Guava (Sorbet),NY Cheesecake,20.0,Saturday,True,2,February,8,2025,45,0,0,1,1,0,0,1,1,0,4,1,0
+2025-02-23,Vanilla Cappuccino,Caramel Custard (SF),Passion Orange Guava (Sorbet),NY Cheesecake,11.0,Sunday,True,2,February,8,2025,46,0,0,1,1,0,0,1,1,0,4,1,0
+2025-02-24,Vanilla Cappuccino,Pistachio Cream (SF),Passion Orange Guava (Sorbet),NY Cheesecake,17.0,Monday,False,2,February,9,2025,47,0,0,1,1,0,1,0,1,0,4,1,0
+2025-02-25,NY Cheesecake,Pistachio Cream (SF),Passion Orange Guava (Sorbet),Peanut Butter (Low Fat),18.0,Tuesday,False,2,February,9,2025,48,0,0,0,1,0,2,0,1,0,3,1,1
+2025-02-26,Fresh Strawberry,Pistachio Cream (SF),Irish Mint,Peanut Butter (Low Fat),19.0,Wednesday,False,2,February,9,2025,49,0,1,0,1,0,2,0,0,0,3,1,1
+2025-02-27,Fresh Strawberry,Pistachio Cream (SF),Irish Mint,Peanut Butter (Low Fat),18.0,Thursday,False,2,February,9,2025,50,0,1,0,1,0,2,0,0,0,3,1,1
+2025-02-28,Fresh Strawberry,Caramel Pecan Toffee (SF),Irish Mint,Apple Pie,17.0,Friday,False,2,February,9,2025,51,0,1,0,3,0,0,0,0,0,2,1,0
+2025-03-01,Fresh Strawberry,Caramel Pecan Toffee (SF),Thin Mint Cookie,Apple Pie,18.0,Saturday,True,3,March,9,2025,52,1,1,0,2,0,0,0,0,0,3,1,0
+2025-03-02,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,12.0,Sunday,True,3,March,9,2025,53,1,1,0,1,1,0,0,0,0,4,1,0
+2025-03-03,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,13.0,Monday,False,3,March,10,2025,54,1,1,0,1,1,0,0,0,0,4,1,0
+2025-03-04,Fresh Strawberry,Yellow Cake Batter (SF),Thin Mint Cookie,Apple Pie,13.0,Tuesday,False,3,March,10,2025,55,1,1,0,1,1,0,0,0,0,4,1,0
+2025-03-05,Fresh Strawberry,Yellow Cake Batter (SF),Peanut Butter Chocolate,Hazelnut,7.0,Wednesday,False,3,March,10,2025,56,1,1,0,0,1,1,0,0,0,4,1,0
+2025-03-06,Fresh Strawberry,Yellow Cake Batter (SF),Peanut Butter Chocolate,Hazelnut,18.0,Thursday,False,3,March,10,2025,57,1,1,0,0,1,1,0,0,0,4,1,0
+2025-03-07,Georgia Peach,Caramel Macadamia Cappuccino (SF),Peanut Butter Chocolate,Hazelnut,12.0,Friday,False,3,March,10,2025,58,1,1,0,0,0,1,1,0,0,4,1,0
+2025-03-08,Georgia Peach,Caramel Macadamia Cappuccino (SF),Peanut Butter Chocolate,Cookies & Cream,12.0,Saturday,True,3,March,10,2025,59,2,1,0,0,0,0,1,0,0,3,1,0
+2025-03-09,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,15.0,Sunday,True,3,March,10,2025,60,1,1,0,1,0,0,1,0,0,4,1,0
+2025-03-10,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,12.0,Monday,False,3,March,11,2025,61,1,1,0,1,0,0,1,0,0,4,1,0
+2025-03-11,Red Raspberry,Caramel Macadamia Cappuccino (SF),Chocolate Covered Strawberries,Cookies & Cream,12.0,Tuesday,False,3,March,11,2025,62,1,1,0,1,0,0,1,0,0,4,1,0
+2025-03-12,Red Raspberry,Butter Pecan (SF),Chocolate Covered Strawberries,Cookies & Cream,9.0,Wednesday,False,3,March,11,2025,63,1,1,0,1,0,1,0,0,0,4,1,0
+2025-03-13,Red Raspberry,Butter Pecan (SF),Hawaiian Coconut,Cookies & Cream,12.0,Thursday,False,3,March,11,2025,64,1,2,0,0,0,1,0,0,0,3,1,0
+2025-03-14,Red Raspberry,Butter Pecan (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),9.0,Friday,False,3,March,11,2025,65,0,2,0,0,0,1,1,0,0,3,1,1
+2025-03-15,Fresh Blackberry,Butter Pecan (SF),Hawaiian Coconut,Salted Caramel Pretzel (Low Fat),20.0,Saturday,True,3,March,11,2025,66,0,2,0,0,0,1,1,0,0,3,1,1
+2025-03-16,Fresh Blackberry,Butter Pecan (SF),White Cake Batter,Creme Brulee,14.0,Sunday,True,3,March,11,2025,67,0,1,0,1,1,1,0,0,0,4,1,0
+2025-03-17,Fresh Blackberry,Butter Pecan (SF),White Cake Batter,Creme Brulee,6.0,Monday,False,3,March,12,2025,68,0,1,0,1,1,1,0,0,0,4,1,0
+2025-03-18,Georgia Peach,Butterscotch Parfait (SF),White Cake Batter,Creme Brulee,16.0,Tuesday,False,3,March,12,2025,69,0,1,0,2,1,0,0,0,0,3,1,0
+2025-03-19,Maine Blueberry,Butterscotch Parfait (SF),White Cake Batter,Creme Brulee,13.0,Wednesday,False,3,March,12,2025,70,0,1,0,2,1,0,0,0,0,3,1,0
+2025-03-20,Maine Blueberry,Butterscotch Parfait (SF),White Cake Batter,Rocky Road,5.0,Thursday,False,3,March,12,2025,71,0,1,0,2,1,0,0,0,0,3,1,0
+2025-03-21,Maine Blueberry,Butterscotch Parfait (SF),Costa Rican Cappuccino,Rocky Road,11.0,Friday,False,3,March,12,2025,72,0,1,1,2,0,0,0,0,0,3,1,0
+2025-03-22,Maine Blueberry,Caramel Custard (SF),Costa Rican Cappuccino,NY Cheesecake,11.0,Saturday,True,3,March,12,2025,73,0,1,1,1,0,0,1,0,0,4,1,0
+2025-03-23,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),12.0,Sunday,True,3,March,12,2025,74,0,0,1,1,0,0,1,1,0,4,1,0
+2025-03-24,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),7.0,Monday,False,3,March,13,2025,75,0,0,1,1,0,0,1,1,0,4,1,0
+2025-03-25,NY Cheesecake,Caramel Custard (SF),Costa Rican Cappuccino,Watermelon (Sorbet),10.0,Tuesday,False,3,March,13,2025,76,0,0,1,1,0,0,1,1,0,4,1,0
+2025-03-26,NY Cheesecake,White Chocolate Macadamia (SF),Pistachio Cream,Watermelon (Sorbet),8.0,Wednesday,False,3,March,13,2025,77,0,0,0,2,0,1,0,1,0,3,1,0
+2025-03-27,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Watermelon (Sorbet),13.0,Thursday,False,3,March,13,2025,78,0,0,0,1,0,1,1,1,0,4,1,1
+2025-03-28,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,7.0,Friday,False,3,March,13,2025,79,0,0,0,2,0,1,1,0,0,3,1,1
+2025-03-29,Pistachio Cream,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,8.0,Saturday,True,3,March,13,2025,80,0,0,0,2,0,1,1,0,0,3,1,1
+2025-03-30,Irish Mint,White Chocolate Macadamia (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,6.0,Sunday,True,3,March,13,2025,81,0,0,0,3,0,0,1,0,0,2,1,1
+2025-03-31,Irish Mint,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,13.0,Monday,False,3,March,14,2025,82,0,0,1,2,0,0,1,0,0,3,1,1
+2025-04-01,Irish Mint,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Strawberry Shortcake,10.0,Tuesday,False,4,April,14,2025,83,0,0,1,2,0,0,1,0,0,3,1,1
+2025-04-02,Thin Mint Cookie,Vanilla Cappuccino (SF),Cookies & Cream,Strawberry Shortcake,10.0,Wednesday,False,4,April,14,2025,84,2,0,1,1,0,0,0,0,0,3,1,0
+2025-04-03,Thin Mint Cookie,Vanilla Cappuccino (SF),Cookies & Cream,Orange Creamsicle,10.0,Thursday,False,4,April,14,2025,85,2,0,1,1,0,0,0,0,0,3,1,0
+2025-04-04,Thin Mint Cookie,English Toffee (SF),Cookies & Cream,Orange Creamsicle,11.0,Friday,False,4,April,14,2025,86,2,0,0,2,0,0,0,0,0,2,1,0
+2025-04-05,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Orange Creamsicle,12.0,Saturday,True,4,April,14,2025,87,0,0,0,3,0,1,0,0,0,2,1,1
+2025-04-06,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Red Raspberry,7.0,Sunday,True,4,April,14,2025,88,0,1,0,2,0,1,0,0,0,3,1,1
+2025-04-07,Chocolate Covered Strawberries,English Toffee (SF),Peanut Butter (Low Fat),Red Raspberry,8.0,Monday,False,4,April,15,2025,89,0,1,0,2,0,1,0,0,0,3,1,1
+2025-04-08,Peanut Butter Chocolate,English Toffee (SF),Apple Pie,Red Raspberry,14.0,Tuesday,False,4,April,15,2025,90,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-09,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Red Raspberry,10.0,Wednesday,False,4,April,15,2025,91,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-10,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Fresh Blackberry,9.0,Thursday,False,4,April,15,2025,92,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-11,Peanut Butter Chocolate,Creme Brulee (SF),Apple Pie,Fresh Blackberry,13.0,Friday,False,4,April,15,2025,93,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-12,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Fresh Blackberry,11.0,Saturday,True,4,April,15,2025,94,0,1,0,2,1,0,0,0,0,3,1,0
+2025-04-13,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Fresh Blackberry,9.0,Sunday,True,4,April,15,2025,95,0,1,0,2,1,0,0,0,0,3,1,0
+2025-04-14,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),9.0,Monday,False,4,April,16,2025,96,0,0,0,2,1,0,0,0,1,3,1,0
+2025-04-15,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),12.0,Tuesday,False,4,April,16,2025,97,0,0,0,2,1,0,0,0,1,3,1,0
+2025-04-16,Chocolate Covered Banana,Yellow Cake Batter (SF),Caramel Pecan Toffee,Pomegranate Raspberry (Tart),17.0,Wednesday,False,4,April,16,2025,98,0,0,0,2,1,0,0,0,1,3,1,0
+2025-04-17,Chocolate Covered Banana,Yellow Cake Batter (SF),Salted Caramel Pretzel (Low Fat),Pomegranate Raspberry (Tart),17.0,Thursday,False,4,April,16,2025,99,0,0,0,1,1,0,1,0,1,4,1,1
+2025-04-18,Wild Mountain Berries,NY Cheesecake (SF),Salted Caramel Pretzel (Low Fat),Cookies & Cream,12.0,Friday,False,4,April,16,2025,100,1,1,0,1,0,0,1,0,0,4,1,1
+2025-04-19,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,13.0,Saturday,True,4,April,16,2025,101,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-20,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,14.0,Sunday,True,4,April,16,2025,102,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-21,Wild Mountain Berries,NY Cheesecake (SF),Raspberry Chocolate Truffle,Cookies & Cream,12.0,Monday,False,4,April,17,2025,103,1,1,0,2,0,0,0,0,0,3,1,0
+2025-04-22,Fresh Strawberry,Butter Pecan (SF),Raspberry Chocolate Truffle,Cookies & Cream,20.0,Tuesday,False,4,April,17,2025,104,1,1,0,1,0,1,0,0,0,4,1,0
+2025-04-23,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Salted Caramel Pretzel (Low Fat),13.0,Wednesday,False,4,April,17,2025,105,0,1,0,0,0,2,1,0,0,3,1,1
+2025-04-24,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Salted Caramel Pretzel (Low Fat),8.0,Thursday,False,4,April,17,2025,106,0,1,0,0,0,2,1,0,0,3,1,1
+2025-04-25,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Costa Rican Cappuccino,14.0,Friday,False,4,April,17,2025,107,0,1,1,0,0,2,0,0,0,3,1,0
+2025-04-26,Fresh Strawberry,Butter Pecan (SF),Pistachio Cream,Costa Rican Cappuccino,9.0,Saturday,True,4,April,17,2025,108,0,1,1,0,0,2,0,0,0,3,1,0
+2025-04-27,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,8.0,Sunday,True,4,April,17,2025,109,0,1,1,0,1,0,1,0,0,4,1,0
+2025-04-28,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,10.0,Monday,False,4,April,18,2025,110,0,1,1,0,1,0,1,0,0,4,1,0
+2025-04-29,Maine Blueberry,Caramel Custard (SF),White Cake Batter,Costa Rican Cappuccino,7.0,Tuesday,False,4,April,18,2025,111,0,1,1,0,1,0,1,0,0,4,1,0
+2025-04-30,Maine Blueberry,Caramel Custard (SF),Cookies & Cream,Irish Mint,12.0,Wednesday,False,4,April,18,2025,112,1,1,0,1,0,0,1,0,0,4,1,0
+2025-05-01,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,22.0,Thursday,False,5,May,18,2025,113,1,1,0,1,0,1,0,0,0,4,1,0
+2025-05-02,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,14.0,Friday,False,5,May,18,2025,114,1,1,0,1,0,1,0,0,0,4,1,0
+2025-05-03,Mango,Pecans & Pralines (SF),Cookies & Cream,Irish Mint,15.0,Saturday,True,5,May,18,2025,115,1,1,0,1,0,1,0,0,0,4,1,0
+2025-05-04,Thin Mint Cookie,Pecans & Pralines (SF),Creme Brulee,Red Raspberry,10.0,Sunday,True,5,May,18,2025,116,1,1,0,1,0,1,0,0,0,4,1,0
+2025-05-05,Thin Mint Cookie,Pecans & Pralines (SF),Creme Brulee,Red Raspberry,9.0,Monday,False,5,May,19,2025,117,1,1,0,1,0,1,0,0,0,4,1,0
+2025-05-06,Thin Mint Cookie,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,5.0,Tuesday,False,5,May,19,2025,118,1,1,0,0,0,1,1,0,0,4,1,1
+2025-05-07,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,12.0,Wednesday,False,5,May,19,2025,119,0,1,0,1,0,1,1,0,0,4,1,1
+2025-05-08,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,6.0,Thursday,False,5,May,19,2025,120,0,1,0,1,0,1,1,0,0,4,1,1
+2025-05-09,Rocky Road,Maple Walnut (SF),Dulce de Leche (Low Fat),Red Raspberry,11.0,Friday,False,5,May,19,2025,121,0,1,0,1,0,1,1,0,0,4,1,1
+2025-05-10,Vanilla Cappuccino,Maple Walnut (SF),Peanut Butter (Low Fat),Red Raspberry,13.0,Saturday,True,5,May,19,2025,122,0,1,1,0,0,2,0,0,0,3,1,1
+2025-05-11,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),17.0,Sunday,True,5,May,19,2025,123,0,0,1,0,0,2,0,1,0,3,1,1
+2025-05-12,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),15.0,Monday,False,5,May,20,2025,124,0,0,1,0,0,2,0,1,0,3,1,1
+2025-05-13,Vanilla Cappuccino,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),10.0,Tuesday,False,5,May,20,2025,125,0,0,1,0,0,2,0,1,0,3,1,1
+2025-05-14,NY Cheesecake,Hazelnut (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),8.0,Wednesday,False,5,May,20,2025,126,0,0,0,1,0,2,0,1,0,3,1,1
+2025-05-15,NY Cheesecake,English Toffee (SF),Peanut Butter Chocolate,Strawberry Shortcake,19.0,Thursday,False,5,May,20,2025,127,1,0,0,3,0,0,0,0,0,2,1,0
+2025-05-16,NY Cheesecake,English Toffee (SF),Peanut Butter Chocolate,Strawberry Shortcake,15.0,Friday,False,5,May,20,2025,128,1,0,0,3,0,0,0,0,0,2,1,0
+2025-05-17,Hawaiian Coconut,English Toffee (SF),Strawberry Shortcake,Peanut Butter Chocolate,15.0,Saturday,True,5,May,20,2025,129,1,1,0,2,0,0,0,0,0,3,1,0
+2025-05-18,Mounds Bar,English Toffee (SF),NY Cheesecake,Fresh Blackberry,15.0,Sunday,True,5,May,20,2025,130,1,1,0,2,0,0,0,0,0,3,1,0
+2025-05-19,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,11.0,Monday,False,5,May,21,2025,131,1,1,1,0,0,1,0,0,0,4,1,0
+2025-05-20,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,7.0,Tuesday,False,5,May,21,2025,132,1,1,1,0,0,1,0,0,0,4,1,0
+2025-05-21,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,10.0,Wednesday,False,5,May,21,2025,133,1,1,1,0,0,1,0,0,0,4,1,0
+2025-05-22,Mounds Bar,Kahlua (SF),Pistachio Cream,Fresh Blackberry,6.0,Thursday,False,5,May,21,2025,134,1,1,1,0,0,1,0,0,0,4,1,0
+2025-05-23,Pistachio Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),7.0,Friday,False,5,May,21,2025,135,0,0,0,0,0,3,0,0,1,2,1,1
+2025-05-24,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),9.0,Saturday,True,5,May,21,2025,136,1,0,0,0,0,2,0,0,1,3,1,1
+2025-05-25,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),9.0,Sunday,True,5,May,21,2025,137,1,0,0,0,0,2,0,0,1,3,1,1
+2025-05-26,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),11.0,Monday,False,5,May,22,2025,138,1,0,0,0,0,2,0,0,1,3,1,1
+2025-05-27,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),5.0,Tuesday,False,5,May,22,2025,139,1,0,0,0,0,2,0,0,1,3,1,1
+2025-05-28,Cookies & Cream,Butter Pecan (SF),Blueberry (Tart),Salted Caramel Macadamia (Low Fat),7.0,Wednesday,False,5,May,22,2025,140,1,0,0,0,0,2,0,0,1,3,1,1
+2025-05-29,Cookies & Cream,Butterscotch Parfait (SF),Wild Berry (Tart),Salted Caramel Macadamia (Low Fat),8.0,Thursday,False,5,May,22,2025,141,1,1,0,1,0,1,0,0,0,4,1,1
+2025-05-30,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Wild Berry (Tart),Costa Rican Cappuccino,15.0,Friday,False,5,May,22,2025,142,0,1,1,2,0,0,0,0,0,3,1,0
+2025-05-31,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,7.0,Saturday,True,5,May,22,2025,143,0,0,1,2,0,0,0,1,0,3,1,0
+2025-06-01,Chocolate Covered Strawberries,Butterscotch Parfait (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,10.0,Sunday,True,6,June,22,2025,144,0,0,1,2,0,0,0,1,0,3,1,0
+2025-06-02,Chocolate Covered Strawberries,Yellow Cake Batter (SF),Passion Orange Guava (Sorbet),Costa Rican Cappuccino,8.0,Monday,False,6,June,23,2025,145,0,0,1,1,1,0,0,1,0,4,1,0
+2025-06-03,Fresh Strawberry,Yellow Cake Batter (SF),Cookies & Cream,Costa Rican Cappuccino,6.0,Tuesday,False,6,June,23,2025,146,1,1,1,0,1,0,0,0,0,4,1,0
+2025-06-04,Fresh Strawberry,Yellow Cake Batter (SF),Cookies & Cream,Costa Rican Cappuccino,6.0,Wednesday,False,6,June,23,2025,147,1,1,1,0,1,0,0,0,0,4,1,0
+2025-06-05,Fresh Strawberry,Yellow Cake Batter (SF),White Chocolate Macadamia,Caramel Custard,9.0,Thursday,False,6,June,23,2025,148,0,1,0,1,1,0,1,0,0,4,1,0
+2025-06-06,Fresh Strawberry,Yellow Cake Batter (SF),White Chocolate Macadamia,Caramel Custard,11.0,Friday,False,6,June,23,2025,149,0,1,0,1,1,0,1,0,0,4,1,0
+2025-06-07,Fresh Strawberry,Pecan and Pralines (SF),White Chocolate Macadamia,Caramel Custard,7.0,Saturday,True,6,June,23,2025,150,0,1,0,1,0,1,1,0,0,4,1,0
+2025-06-08,Fresh Strawberry,Pecan and Pralines (SF),NY Cheesecake,Caramel Custard,6.0,Sunday,True,6,June,23,2025,151,0,1,0,1,0,1,1,0,0,4,1,0
+2025-06-09,Fresh Strawberry,Pecan and Pralines (SF),NY Cheesecake,Irish Mint,11.0,Monday,False,6,June,24,2025,152,0,1,0,2,0,1,0,0,0,3,1,0
+2025-06-10,Fresh Blackberry,Pecan and Pralines (SF),NY Cheesecake,Irish Mint,3.0,Tuesday,False,6,June,24,2025,153,0,1,0,2,0,1,0,0,0,3,1,0
+2025-06-11,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,6.0,Wednesday,False,6,June,24,2025,154,0,1,0,3,0,0,0,0,0,2,1,0
+2025-06-12,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,5.0,Thursday,False,6,June,24,2025,155,0,1,0,3,0,0,0,0,0,2,1,0
+2025-06-13,Fresh Blackberry,Creme Brulee (SF),NY Cheesecake,Irish Mint,11.0,Friday,False,6,June,24,2025,156,0,1,0,3,0,0,0,0,0,2,1,0
+2025-06-14,Fresh Blackberry,Creme Brulee (SF),Dulce de Leche (Low Fat),Thin Mint Cookie,5.0,Saturday,True,6,June,24,2025,157,1,1,0,1,0,0,1,0,0,4,1,1
+2025-06-15,Fresh Blackberry,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Thin Mint Cookie,9.0,Sunday,True,6,June,24,2025,158,1,1,1,0,0,0,1,0,0,4,1,1
+2025-06-16,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,7.0,Monday,False,6,June,25,2025,159,0,1,1,1,0,0,1,0,0,4,1,1
+2025-06-17,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,5.0,Tuesday,False,6,June,25,2025,160,0,1,1,1,0,0,1,0,0,4,1,1
+2025-06-18,Georgia Peach,Vanilla Cappuccino (SF),Dulce de Leche (Low Fat),Banana Chocolate,5.0,Wednesday,False,6,June,25,2025,161,0,1,1,1,0,0,1,0,0,4,1,1
+2025-06-19,Georgia Peach,Vanilla Cappuccino (SF),Hawaiian Coconut,Banana Chocolate,10.0,Thursday,False,6,June,25,2025,162,0,2,1,1,0,0,0,0,0,3,1,0
+2025-06-20,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),8.0,Friday,False,6,June,25,2025,163,0,2,0,0,0,2,0,0,0,2,1,1
+2025-06-21,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),8.0,Saturday,True,6,June,25,2025,164,0,2,0,0,0,2,0,0,0,2,1,1
+2025-06-22,Red Raspberry,Hazelnut (SF),Hawaiian Coconut,Peanut Butter (Low Fat),7.0,Sunday,True,6,June,25,2025,165,0,2,0,0,0,2,0,0,0,2,1,1
+2025-06-23,Red Raspberry,Maple Walnut (SF),Hawaiian Coconut,Peanut Butter Chocolate,10.0,Monday,False,6,June,26,2025,166,1,2,0,0,0,1,0,0,0,3,1,0
+2025-06-25,White Cake Batter,Maple Walnut (SF),Mango (Sorbet),Peanut Butter Chocolate,15.0,Wednesday,False,6,June,26,2025,167,1,0,0,0,1,1,0,1,0,4,1,0
+2025-06-26,White Cake Batter,Maple Walnut (SF),Mango (Sorbet),Peanut Butter Chocolate,10.0,Thursday,False,6,June,26,2025,168,1,0,0,0,1,1,0,1,0,4,1,0
+2025-06-27,White Cake Batter,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,10.0,Friday,False,6,June,26,2025,169,0,0,0,2,1,0,0,1,0,3,1,0
+2025-06-28,White Cake Batter,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,4.0,Saturday,True,6,June,26,2025,170,0,0,0,2,1,0,0,1,0,3,1,0
+2025-06-29,Raspberry Chocolate Truffle,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,9.0,Sunday,True,6,June,26,2025,171,0,0,0,3,0,0,0,1,0,2,1,0
+2025-06-30,Raspberry Chocolate Truffle,English Toffee (SF),Mango (Sorbet),Salted Caramel Macadamia,5.0,Monday,False,6,June,27,2025,172,0,0,0,3,0,0,0,1,0,2,1,0
+2025-07-01,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Raspberry Chocolate Truffle,12.0,Tuesday,False,7,July,27,2025,173,1,0,0,2,0,1,0,0,0,3,1,0
+2025-07-02,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Raspberry Chocolate Truffle,9.0,Wednesday,False,7,July,27,2025,174,1,0,0,2,0,1,0,0,0,3,1,0
+2025-07-03,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Costa Rican Cappuccino,7.0,Thursday,False,7,July,27,2025,175,1,0,1,1,0,1,0,0,0,4,1,0
+2025-07-04,Cookies & Cream,Pistachio (SF),Strawberry Shortcake,Costa Rican Cappuccino,11.0,Friday,False,7,July,27,2025,176,1,0,1,1,0,1,0,0,0,4,1,0
+2025-07-05,Cookies & Cream,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,8.0,Saturday,True,7,July,27,2025,177,1,1,1,0,0,0,1,0,0,4,1,0
+2025-07-06,Cookies & Cream,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,5.0,Sunday,True,7,July,27,2025,178,1,1,1,0,0,0,1,0,0,4,1,0
+2025-07-07,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,6.0,Monday,False,7,July,28,2025,179,0,1,1,1,0,0,1,0,0,4,1,0
+2025-07-08,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,9.0,Tuesday,False,7,July,28,2025,180,0,1,1,1,0,0,1,0,0,4,1,0
+2025-07-09,NY Cheesecake,Caramel Custard (SF),Fresh Blackberry,Costa Rican Cappuccino,5.0,Wednesday,False,7,July,28,2025,181,0,1,1,1,0,0,1,0,0,4,1,0
+2025-07-10,NY Cheesecake,Butter Pecan (SF),Fresh Blackberry,Chocolate Covered Strawberries,6.0,Thursday,False,7,July,28,2025,182,0,1,0,2,0,1,0,0,0,3,1,0
+2025-07-11,NY Cheesecake,Butter Pecan (SF),Fresh Blackberry,Chocolate Covered Strawberries,4.0,Friday,False,7,July,28,2025,183,0,1,0,2,0,1,0,0,0,3,1,0
+2025-07-12,Creme Brulee,Butter Pecan (SF),Chocolate Covered Strawberries,Pomegranate Raspberry (Tart),3.0,Saturday,True,7,July,28,2025,184,0,0,0,2,0,1,0,0,1,3,1,0
+2025-07-13,Creme Brulee,Butter Pecan (SF),Chocolate Covered Strawberries,Pomegranate Raspberry (Tart),7.0,Sunday,True,7,July,28,2025,185,0,0,0,2,0,1,0,0,1,3,1,0
+2025-07-14,Creme Brulee,Butter Pecan (SF),Rocky Road,Pomegranate Raspberry (Tart),5.0,Monday,False,7,July,29,2025,186,0,0,0,2,0,1,0,0,1,3,1,0
+2025-07-15,Creme Brulee,Hazelnut (SF),Rocky Road,Pomegranate Raspberry (Tart),8.0,Tuesday,False,7,July,29,2025,187,0,0,0,2,0,1,0,0,1,3,1,0
+2025-07-16,Wild Mountain Berries,Hazelnut (SF),Rocky Road,Irish Mint,8.0,Wednesday,False,7,July,29,2025,188,0,1,0,2,0,1,0,0,0,3,1,0
+2025-07-17,Wild Mountain Berries,Hazelnut (SF),Rocky Road,Irish Mint,7.0,Thursday,False,7,July,29,2025,189,0,1,0,2,0,1,0,0,0,3,1,0
+2025-07-18,Wild Mountain Berries,Hazelnut (SF),Dulce de Leche (Low Fat),Irish Mint,8.0,Friday,False,7,July,29,2025,190,0,1,0,1,0,1,1,0,0,4,1,1
+2025-07-19,Thin Mint Cookie,Hazelnut (SF),Dulce de Leche (Low Fat),Orange Creamsicle,7.0,Saturday,True,7,July,29,2025,191,1,0,0,1,0,1,1,0,0,4,1,1
+2025-07-20,Thin Mint Cookie,Hazelnut (SF),Dulce de Leche (Low Fat),Orange Creamsicle,10.0,Sunday,True,7,July,29,2025,192,1,0,0,1,0,1,1,0,0,4,1,1
+2025-07-21,Thin Mint Cookie,Kahlua (SF),Dulce de Leche (Low Fat),Orange Creamsicle,9.0,Monday,False,7,July,30,2025,193,1,0,1,1,0,0,1,0,0,4,1,1
+2025-07-22,Thin Mint Cookie,Kahlua (SF),White Cake Batter,Orange Creamsicle,10.0,Tuesday,False,7,July,30,2025,194,1,0,1,1,1,0,0,0,0,4,1,0
+2025-07-23,Maine Blueberry,Kahlua (SF),White Cake Batter,Hawaiian Coconut,8.0,Wednesday,False,7,July,30,2025,195,0,2,1,0,1,0,0,0,0,3,1,0
+2025-07-24,Maine Blueberry,Kahlua (SF),White Cake Batter,Hawaiian Coconut,8.0,Thursday,False,7,July,30,2025,196,0,2,1,0,1,0,0,0,0,3,1,0
+2025-07-25,Maine Blueberry,English Toffee (SF),White Cake Batter,Mounds Bar,5.0,Friday,False,7,July,30,2025,197,1,1,0,1,1,0,0,0,0,4,1,0
+2025-07-26,Fresh Strawberry,English Toffee (SF),Peanut Butter (Low Fat),Mounds Bar,8.0,Saturday,True,7,July,30,2025,198,1,1,0,1,0,1,0,0,0,4,1,1
+2025-07-28,Fresh Strawberry,English Toffee (SF),Peanut Butter (Low Fat),Mounds Bar,8.0,Monday,False,7,July,31,2025,199,1,1,0,1,0,1,0,0,0,4,1,1
+2025-07-29,Fresh Strawberry,Caramel Custard (SF),Peanut Butter (Low Fat),Mounds Bar,6.0,Tuesday,False,7,July,31,2025,200,1,1,0,0,0,1,1,0,0,4,1,1
+2025-07-30,Fresh Strawberry,Caramel Custard (SF),Peanut Butter Chocolate,Vanilla Cappuccino,7.0,Wednesday,False,7,July,31,2025,201,1,1,1,0,0,0,1,0,0,4,1,0
+2025-07-31,Fresh Strawberry,Caramel Custard (SF),Cookies & Cream,Vanilla Cappuccino,13.0,Thursday,False,7,July,31,2025,202,1,1,1,0,0,0,1,0,0,4,1,0
+2025-08-01,Vanilla Cappuccino,Caramel Custard (SF),Cookies & Cream,Passion Orange Guava (Sorbet),7.0,Friday,False,8,August,31,2025,203,1,0,1,0,0,0,1,1,0,4,1,0
+2025-08-02,Vanilla Cappuccino,White Chocolate Macadamia,Cookies & Cream,Passion Orange Guava (Sorbet),5.0,Saturday,True,8,August,31,2025,204,1,0,1,1,0,0,0,1,0,4,0,0
+2025-08-03,Black Forest Chocolate,White Chocolate Macadamia,Cookies & Cream,Passion Orange Guava (Sorbet),6.0,Sunday,True,8,August,31,2025,205,2,0,0,1,0,0,0,1,0,3,0,0
+2025-08-04,Black Forest Chocolate,White Chocolate Macadamia (SF),Cookies & Cream,Passion Orange Guava (Sorbet),4.0,Monday,False,8,August,32,2025,206,2,0,0,1,0,0,0,1,0,3,1,0
+2025-08-05,Black Forest Chocolate,White Chocolate Macadamia (SF),NY Cheesecake,Passion Orange Guava (Sorbet),5.0,Tuesday,False,8,August,32,2025,207,1,0,0,2,0,0,0,1,0,3,1,0
+2025-08-06,Black Forest Chocolate,Butter Pecan (SF),NY Cheesecake,Red Raspberry,9.0,Wednesday,False,8,August,32,2025,208,1,1,0,1,0,1,0,0,0,4,1,0
+2025-08-07,Salted Caramel Macadamia,Butter Pecan (SF),NY Cheesecake,Red Raspberry,5.0,Thursday,False,8,August,32,2025,209,0,1,0,2,0,1,0,0,0,3,1,0
+2025-08-08,Salted Caramel Macadamia,Butter Pecan (SF),Pistachio Cream,Red Raspberry,7.0,Friday,False,8,August,32,2025,210,0,1,0,1,0,2,0,0,0,3,1,0
+2025-08-09,Salted Caramel Macadamia,Butter Pecan (SF),Pistachio Cream,Red Raspberry,8.0,Saturday,True,8,August,32,2025,211,0,1,0,1,0,2,0,0,0,3,1,0
+2025-08-10,Salted Caramel Macadamia,Yellow Cake Batter (SF),Pistachio Cream,Red Raspberry,7.0,Sunday,True,8,August,32,2025,212,0,1,0,1,1,1,0,0,0,4,1,0
+2025-08-11,Salted Caramel Macadamia,Yellow Cake Batter (SF),Pistachio Cream,Red Raspberry,10.0,Monday,False,8,August,33,2025,213,0,1,0,1,1,1,0,0,0,4,1,0
+2025-08-12,Costa Rican Cappuccino,Yellow Cake Batter (SF),Mango,Red Raspberry,7.0,Tuesday,False,8,August,33,2025,214,0,2,1,0,1,0,0,0,0,3,1,0
+2025-08-13,Costa Rican Cappuccino,Yellow Cake Batter (SF),Mango,Red Raspberry,9.0,Wednesday,False,8,August,33,2025,215,0,2,1,0,1,0,0,0,0,3,1,0
+2025-08-14,Costa Rican Cappuccino,Maple Walnut (SF),Mango,Red Raspberry,11.0,Thursday,False,8,August,33,2025,216,0,2,1,0,0,1,0,0,0,3,1,0
+2025-08-15,Costa Rican Cappuccino,Maple Walnut (SF),Mango,Red Raspberry,9.0,Friday,False,8,August,33,2025,217,0,2,1,0,0,1,0,0,0,3,1,0
+2025-08-16,Irish Mint,Maple Walnut (SF),Mango,Fresh Blackberry,12.0,Saturday,True,8,August,33,2025,218,0,2,0,1,0,1,0,0,0,3,1,0
+2025-08-18,Thin Mint Cookie,Maple Walnut (SF),Creme Brulee,Fresh Blackberry,13.0,Monday,False,8,August,34,2025,219,1,1,0,1,0,1,0,0,0,4,1,0
+2025-08-19,Thin Mint Cookie,Caramel Macadamia Cappuccino (SF),Creme Brulee,Fresh Blackberry,12.0,Tuesday,False,8,August,34,2025,220,1,1,0,1,0,0,1,0,0,4,1,0
+2025-08-21,Creme Brulee,NY Cheesecake (SF),Fresh Strawberry,Dulce de Leche (Low Fat),13.0,Thursday,False,8,August,34,2025,221,0,1,0,2,0,0,1,0,0,3,1,1
+2025-08-22,Creme Brulee,NY Cheesecake (SF),Fresh Strawberry,Dulce de Leche (Low Fat),13.0,Friday,False,8,August,34,2025,222,0,1,0,2,0,0,1,0,0,3,1,1
+2025-08-23,Chocolate Covered Banana,NY Cheesecake (SF),Fresh Strawberry,Cookies & Cream,10.0,Saturday,True,8,August,34,2025,223,1,1,0,2,0,0,0,0,0,3,1,0
+2025-08-24,Chocolate Covered Banana,NY Cheesecake (SF),Fresh Strawberry,Cookies & Cream,15.0,Sunday,True,8,August,34,2025,224,1,1,0,2,0,0,0,0,0,3,1,0
+2025-08-25,Chocolate Covered Banana,Yellow Cake Batter (SF),Cookies & Cream,Passion Orange Guava (Sorbet),16.0,Monday,False,8,August,35,2025,225,1,0,0,1,1,0,0,1,0,4,1,0
+2025-08-26,Thin Mint Cookie,Yellow Cake Batter (SF),Cookies & Cream,Passion Orange Guava (Sorbet),18.0,Tuesday,False,8,August,35,2025,226,2,0,0,0,1,0,0,1,0,3,1,0
+2025-08-27,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Passion Orange Guava (Sorbet),10.0,Wednesday,False,8,August,35,2025,227,1,0,0,0,1,1,0,1,0,4,1,1
+2025-08-28,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Blueberry (Tart),11.0,Thursday,False,8,August,35,2025,228,1,0,0,0,1,1,0,0,1,4,1,1
+2025-08-29,Cookies & Cream,Yellow Cake Batter (SF),Peanut Butter (Low Fat),Blueberry (Tart),6.0,Friday,False,8,August,35,2025,229,1,0,0,0,1,1,0,0,1,4,1,1
+2025-08-30,Cookies & Cream,Caramel Custard (SF),Peanut Butter Chocolate,Blueberry (Tart),8.0,Saturday,True,8,August,35,2025,230,2,0,0,0,0,0,1,0,1,3,1,0
+2025-08-31,NY Cheesecake,Caramel Custard (SF),Peanut Butter Chocolate,Fresh Strawberry,13.0,Sunday,True,8,August,35,2025,231,1,1,0,1,0,0,1,0,0,4,1,0
+2025-09-01,NY Cheesecake,Caramel Custard (SF),Peanut Butter Chocolate,Fresh Strawberry,12.0,Monday,False,9,September,36,2025,232,1,1,0,1,0,0,1,0,0,4,1,0
+2025-09-02,NY Cheesecake,Caramel Custard (SF),Pumpkin Pie,Wild Mountain Berries,18.0,Tuesday,False,9,September,36,2025,233,0,1,0,2,0,0,1,0,0,3,1,0
+2025-09-03,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Wild Mountain Berries,10.0,Wednesday,False,9,September,36,2025,234,0,1,0,1,0,2,0,0,0,3,1,0
+2025-09-04,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Red Raspberry,15.0,Thursday,False,9,September,36,2025,235,0,1,0,1,0,2,0,0,0,3,1,0
+2025-09-05,Pistachio Cream,Hazelnut (SF),Pumpkin Pie,Red Raspberry,5.0,Friday,False,9,September,36,2025,236,0,1,0,1,0,2,0,0,0,3,1,0
+2025-09-06,Thin Mint Cookie,Hazelnut (SF),Costa Rican Cappuccino,Red Raspberry,20.0,Saturday,True,9,September,36,2025,237,1,1,1,0,0,1,0,0,0,4,1,0
+2025-09-08,Thin Mint Cookie,Butter Pecan (SF),Costa Rican Cappuccino,Red Raspberry,9.0,Monday,False,9,September,37,2025,238,1,1,1,0,0,1,0,0,0,4,1,0
+2025-09-09,Chocolate Covered Strawberries,Butter Pecan (SF),Mango,Hawaiian Coconut,24.0,Tuesday,False,9,September,37,2025,239,0,2,0,1,0,1,0,0,0,3,1,0
+2025-09-10,Chocolate Covered Strawberries,Butter Pecan (SF),Mango,Hawaiian Coconut,17.0,Wednesday,False,9,September,37,2025,240,0,2,0,1,0,1,0,0,0,3,1,0
+2025-09-11,Mango,Butter Pecan (SF),Salted Caramel Pretzel (Low Fat),Hawaiian Coconut,40.0,Thursday,False,9,September,37,2025,241,0,2,0,0,0,1,1,0,0,3,1,1
+2025-09-12,Mango,White Chocolate Macadamia (SF),Salted Caramel Pretzel (Low Fat),Mounds Bar,15.0,Friday,False,9,September,37,2025,242,1,1,0,1,0,0,1,0,0,4,1,1
+2025-09-13,Fresh Blackberry,White Chocolate Macadamia (SF),Salted Caramel Pretzel (Low Fat),White Cake Batter,17.0,Saturday,True,9,September,37,2025,243,0,1,0,1,1,0,1,0,0,4,1,1
+2025-09-14,Fresh Blackberry,White Chocolate Macadamia (SF),Creme Brulee,White Cake Batter,17.0,Sunday,True,9,September,37,2025,244,0,1,0,2,1,0,0,0,0,3,1,0
+2025-09-15,Fresh Blackberry,White Chocolate Macadamia (SF),Creme Brulee,White Cake Batter,11.0,Monday,False,9,September,38,2025,245,0,1,0,2,1,0,0,0,0,3,1,0
+2025-09-16,Fresh Blackberry,Vanilla Cappuccino (SF),Creme Brulee,White Cake Batter,15.0,Tuesday,False,9,September,38,2025,246,0,1,1,1,1,0,0,0,0,4,1,0
+2025-09-17,Fresh Blackberry,Vanilla Cappuccino (SF),Creme Brulee,White Cake Batter,14.0,Wednesday,False,9,September,38,2025,247,0,1,1,1,1,0,0,0,0,4,1,0
+2025-09-18,Georgia Peach,Vanilla Cappuccino (SF),Rocky Road,White Cake Batter,25.0,Thursday,False,9,September,38,2025,248,0,1,1,1,1,0,0,0,0,4,1,0
+2025-09-19,Georgia Peach,Vanilla Cappuccino (SF),Rocky Road,Irish Mint,19.0,Friday,False,9,September,38,2025,249,0,1,1,2,0,0,0,0,0,3,1,0
+2025-09-20,Georgia Peach,Pecan and Pralines (SF),Rocky Road,Irish Mint,14.0,Saturday,True,9,September,38,2025,250,0,1,0,2,0,1,0,0,0,3,1,0
+2025-09-21,Georgia Peach,Pecan and Pralines (SF),Thin Mint Cookie,Peanut Butter (Low Fat),19.0,Sunday,True,9,September,38,2025,251,1,1,0,0,0,2,0,0,0,3,1,1
+2025-09-23,Strawberry Shortcake,Pecan and Pralines (SF),Thin Mint Cookie,Peanut Butter (Low Fat),21.0,Tuesday,False,9,September,39,2025,252,1,0,0,1,0,2,0,0,0,3,1,1
+2025-09-24,Strawberry Shortcake,Maple Walnut (SF),Peanut Butter Chocolate,Caramel Macadamia Cappuccino,15.0,Wednesday,False,9,September,39,2025,253,1,0,0,1,0,1,1,0,0,4,1,0
+2025-09-25,Strawberry Shortcake,Maple Walnut (SF),Peanut Butter Chocolate,Caramel Macadamia Cappuccino,13.0,Thursday,False,9,September,39,2025,254,1,0,0,1,0,1,1,0,0,4,1,0
+2025-09-26,NY Cheesecake,Maple Walnut (SF),Peanut Butter Chocolate,Watermelon (Sorbet),14.0,Friday,False,9,September,39,2025,255,1,0,0,1,0,1,0,1,0,4,1,0
+2025-09-27,NY Cheesecake,Maple Walnut (SF),Peanut Butter Chocolate,Watermelon (Sorbet),13.0,Saturday,True,9,September,39,2025,256,1,0,0,1,0,1,0,1,0,4,1,0
+2025-09-28,NY Cheesecake,English Toffee (SF),Black Forest Chocolate,Watermelon (Sorbet),14.0,Sunday,True,9,September,39,2025,257,1,0,0,2,0,0,0,1,0,3,1,0
+2025-09-29,NY Cheesecake,English Toffee (SF),Black Forest Chocolate,Watermelon (Sorbet),6.0,Monday,False,9,September,40,2025,258,1,0,0,2,0,0,0,1,0,3,1,0
+2025-09-30,Black Forest Chocolate,English Toffee (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),18.0,Tuesday,False,9,September,40,2025,259,1,0,0,1,0,0,1,0,1,4,1,1
+2025-10-01,Black Forest Chocolate,English Toffee (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),11.0,Wednesday,False,10,October,40,2025,260,1,0,0,1,0,0,1,0,1,4,1,1
+2025-10-02,Cookies & Cream,Yellow Cake Batter (SF),Dulce de Leche (Low Fat),Pomegranate Raspberry (Tart),16.0,Thursday,False,10,October,40,2025,261,1,0,0,0,1,0,1,0,1,4,1,1
+2025-10-03,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,23.0,Friday,False,10,October,40,2025,262,1,1,1,0,1,0,0,0,0,4,1,0
+2025-10-04,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,18.0,Saturday,True,10,October,40,2025,263,1,1,1,0,1,0,0,0,0,4,1,0
+2025-10-05,Cookies & Cream,Yellow Cake Batter (SF),Costa Rican Cappuccino,Fresh Blackberry,14.0,Sunday,True,10,October,40,2025,264,1,1,1,0,1,0,0,0,0,4,1,0
+2025-10-06,Cookies & Cream,Caramel Custard (SF),Chocolate Covered Banana,Fresh Blackberry,14.0,Monday,False,10,October,41,2025,265,1,1,0,1,0,0,1,0,0,4,1,0
+2025-10-07,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Blackberry,12.0,Tuesday,False,10,October,41,2025,266,0,1,0,2,0,0,1,0,0,3,1,0
+2025-10-08,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,11.0,Wednesday,False,10,October,41,2025,267,0,1,0,2,0,0,1,0,0,3,1,0
+2025-10-09,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,16.0,Thursday,False,10,October,41,2025,268,0,1,0,2,0,0,1,0,0,3,1,0
+2025-10-10,Irish Mint,Caramel Custard (SF),Chocolate Covered Banana,Fresh Strawberry,13.0,Friday,False,10,October,41,2025,269,0,1,0,2,0,0,1,0,0,3,1,0
+2025-10-11,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Fresh Strawberry,10.0,Saturday,True,10,October,41,2025,270,1,1,0,1,0,1,0,0,0,4,1,0
+2025-10-12,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Fresh Strawberry,12.0,Sunday,True,10,October,41,2025,271,1,1,0,1,0,1,0,0,0,4,1,0
+2025-10-13,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Red Raspberry,6.0,Monday,False,10,October,42,2025,272,1,1,0,1,0,1,0,0,0,4,1,0
+2025-10-14,Thin Mint Cookie,Butter Pecan (SF),Pumpkin Pie,Red Raspberry,12.0,Tuesday,False,10,October,42,2025,273,1,1,0,1,0,1,0,0,0,4,1,0
+2025-10-15,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Pumpkin Pie,Red Raspberry,11.0,Wednesday,False,10,October,42,2025,274,0,1,1,2,0,0,0,0,0,3,1,0
+2025-10-16,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,10.0,Thursday,False,10,October,42,2025,275,0,1,1,2,0,0,0,0,0,3,1,0
+2025-10-17,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,6.0,Friday,False,10,October,42,2025,276,0,1,1,2,0,0,0,0,0,3,1,0
+2025-10-18,Salted Caramel Macadamia,Vanilla Cappuccino (SF),Creme Brulee,Red Raspberry,7.0,Saturday,True,10,October,42,2025,277,0,1,1,2,0,0,0,0,0,3,1,0
+2025-10-19,White Cake Batter,Vanilla Cappuccino (SF),Creme Brulee,Mango,5.0,Sunday,True,10,October,42,2025,278,0,1,1,1,1,0,0,0,0,4,1,0
+2025-10-21,White Cake Batter,Butterscotch Parfait (SF),Creme Brulee,Mango,14.0,Tuesday,False,10,October,43,2025,279,0,1,0,2,1,0,0,0,0,3,1,0
+2025-10-22,White Cake Batter,Butterscotch Parfait (SF),Raspberry Chocolate Truffle,Mango,10.0,Wednesday,False,10,October,43,2025,280,0,1,0,2,1,0,0,0,0,3,1,0
+2025-10-23,Maine Blueberry,NY Cheesecake (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,11.0,Thursday,False,10,October,43,2025,281,0,2,0,2,0,0,0,0,0,2,1,0
+2025-10-24,Maine Blueberry,NY Cheesecake (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,9.0,Friday,False,10,October,43,2025,282,0,2,0,2,0,0,0,0,0,2,1,0
+2025-10-25,Maine Blueberry,Yellow Cake Batter (SF),Raspberry Chocolate Truffle,Hawaiian Coconut,12.0,Saturday,True,10,October,43,2025,283,0,2,0,1,1,0,0,0,0,3,1,0
+2025-10-26,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),11.0,Sunday,True,10,October,43,2025,284,1,0,0,1,1,1,0,0,0,4,1,1
+2025-10-27,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),11.0,Monday,False,10,October,44,2025,285,1,0,0,1,1,1,0,0,0,4,1,1
+2025-10-28,Strawberry Shortcake,Yellow Cake Batter (SF),Mounds Bar,Peanut Butter (Low Fat),9.0,Tuesday,False,10,October,44,2025,286,1,0,0,1,1,1,0,0,0,4,1,1
+2025-10-29,Caramel Macadamia Cappuccino,Yellow Cake Batter (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),12.0,Wednesday,False,10,October,44,2025,287,1,0,0,0,1,0,1,1,0,4,1,0
+2025-10-30,Caramel Macadamia Cappuccino,Yellow Cake Batter (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),9.0,Thursday,False,10,October,44,2025,288,1,0,0,0,1,0,1,1,0,4,1,0
+2025-10-31,Caramel Macadamia Cappuccino,Pistachio Cream (SF),Peanut Butter Chocolate,Passion Orange Guava (Sorbet),32.0,Friday,False,10,October,44,2025,289,1,0,0,0,0,1,1,1,0,4,1,0
+2025-11-01,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,12.0,Saturday,True,11,November,44,2025,290,2,1,0,0,0,1,0,0,0,3,1,0
+2025-11-02,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,13.0,Sunday,True,11,November,44,2025,291,2,1,0,0,0,1,0,0,0,3,1,0
+2025-11-03,Cookies & Cream,Pistachio Cream (SF),Peanut Butter Chocolate,Fresh Blackberry,10.0,Monday,False,11,November,45,2025,292,2,1,0,0,0,1,0,0,0,3,1,0
+2025-11-04,Cookies & Cream,Hazelnut Amaretto (SF),Dulce de Leche (Low Fat),Fresh Blackberry,6.0,Tuesday,False,11,November,45,2025,293,1,1,0,0,0,1,1,0,0,4,1,1
