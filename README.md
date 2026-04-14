@@ -7,7 +7,7 @@ Will Pham · Jacob Quisumbing · Vicky Xiao · Joy Zhang
 
 ## The Problem
 
-Yogurt Park, a beloved frozen yogurt shop near the UC Berkeley campus, rotates its daily flavor lineup from a catalog of 66 flavors across **4 rotating slots** (plus 2 permanently fixed: Ghirardelli Chocolate and Vanilla Classic). Poor daily selections cost real money: customers leave when preferred flavors are unavailable, prep costs are wasted on unpopular choices, and unsold inventory must be discarded.
+Yogurt Park is frozen yogurt shop near the UC Berkeley campus. Its daily flavor lineup from a catalog of 66 flavors across **4 rotating slots** (plus 2 permanently fixed: Ghirardelli Chocolate and Vanilla Classic). Poor daily selections cost real money: customers leave when preferred flavors are unavailable, prep costs are wasted on unpopular choices, and unsold inventory must be discarded.
 
 **Core question:** Which 4 flavors should rotate each day to maximize customer utility?
 
